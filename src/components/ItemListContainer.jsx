@@ -1,4 +1,4 @@
-import "./ProductCard.css"
+import "./ItemListContainer.css"
 export const ItemListContainer = (props) =>{
     const{ producto, id ,precio,} = props
     return(

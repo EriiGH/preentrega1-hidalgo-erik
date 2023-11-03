@@ -1,5 +1,5 @@
 import "./NavBar.css";
-import Card from "./Card";
+import Card from "./CartWidget";
 
 export default function NavBar() {
   return ( 
@@ -13,7 +13,7 @@ export default function NavBar() {
             <a href="#" className="nav-href">Inicio</a>
           </li>
           <li className="nav-list-item">
-            <a href="#" className="nav-href">Acerca de</a>
+            <a href="#" className="nav-href">Productos</a>
           </li>
           <li className="nav-list-item">
             <a href="#" className="nav-href">Contacto</a>
